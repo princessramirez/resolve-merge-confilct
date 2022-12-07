@@ -5,8 +5,8 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Job History
 
-Target - Cashier / Guest Service / Logistics
-Unication USA - Logistcs - Shipper
+Target - Cashier / Guest Service / Logistics 2013 - 2017
+Unication USA - Logistcs - Shipper 2017 - Present
 
 ### GitHub Trainer
 
@@ -17,9 +17,9 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
-Word
-Excel
-Powerpoint 
+Word,
+Excel,
+Powerpoint ,
 
 ### Education
 High School ,
